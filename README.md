@@ -10,6 +10,21 @@ Gets you to resize your particular image to new dimension according to the input
 Accepts the file location name. Accepts the new width and height. And creates new file name with extension of whether the photo should be in (JPG,PNG) format.
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/crNemo/Imageresizer.git
+```
+
+Install **CV2**
+
+```python
+  pip install opencv-python
+```
+
+
 ## Demo
 
 Example photo be this: Its original dimension is **1600x900.**
